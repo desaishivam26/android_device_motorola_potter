@@ -23,7 +23,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/motorola/potter/potter-vendor.mk)
 
 # Inherit some common ORION stuff.
-$(call inherit-product, vendor/orion/config/common.mk)
+$(call inherit-product, vendor/orion/common.mk)
 
 # Boot animation
 TARGET_SCREEN_WIDTH := 1080
