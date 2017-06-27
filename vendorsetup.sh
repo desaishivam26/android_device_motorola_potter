@@ -1,3 +1,0 @@
-add_lunch_combo orion_potter-eng
-add_lunch_combo orion_potter-user
-add_lunch_combo orion_potter-userdebug
